@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+PhD candidate in molecular biology and genetics @ METU Biological Sciences (Ankara, Turkey), currently working on the model organism _Bacillus subtilis_.
+
+Feel free to connect with me on LinkedIn: [Meltem Kutnu](https://www.linkedin.com/in/meltem-kutnu/)
+
+Fun fact about me: I like doves. 🕊️ 
+
+
 <!--
 **meltemktn/meltemktn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
