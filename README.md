@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-PhD candidate in molecular biology and genetics @ METU Biological Sciences (Ankara, Turkey), currently working on the model organism _Bacillus subtilis_.
+PhD in molecular biology and genetics @ METU Biological Sciences (Ankara, Turkey). 
 
 Feel free to connect with me on LinkedIn: [Meltem Kutnu](https://www.linkedin.com/in/meltem-kutnu/)
 
